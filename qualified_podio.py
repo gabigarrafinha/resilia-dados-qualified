@@ -6,3 +6,5 @@ def podio_olimpico(t1, t2, t3):
     f"2 - {tempos_ordenados[1]} minutos\n"
     f"3 - {tempos_ordenados[2]} minutos\n"
   )
+
+podio_olimpico(6, 4, 8)
